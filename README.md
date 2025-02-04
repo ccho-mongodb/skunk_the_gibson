@@ -8,6 +8,9 @@ mohammed.hunan@mongodb.com
 
 chris.cho@mongodb.com
 
+
+[App demo video](https://youtu.be/zKES-CxDO2I?si=z11w4-pgWEaA9Tu7)
+
 # Description:
 
 VR browser for MongoDB databases. Explore data by navigating through collections and documents. Apply user-configurable filters on collections to reveal more specific views.
